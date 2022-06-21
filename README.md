@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm jini</h1>
 <h3 align="center">A passionate back-end developer from South Korea</h3>
 
@@ -20,6 +18,7 @@
 
 
 <!--
+### Hi there 👋
 **boknamiLover/boknamiLover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
