@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jini</h1>
 <h3 align="center">A passionate back-end developer from South Korea</h3>
 
-- 🔭 I’m currently working on **first**
+- 🔭 I’m currently working on [first](https://github.com/boknamiLover/first.git)
 
 - 🌱 I’m currently learning **JWT & MSA**
 
