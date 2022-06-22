@@ -8,6 +8,7 @@
 - 📫 How to reach me **ggoggalee@gmail.com**
 
 <p align="left">
+나는 이렇게 일합니다.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
