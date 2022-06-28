@@ -1,5 +1,5 @@
 # <h1 align="left">👋, I'm jini</h1>
-## A passionate back-end developer.
+## A passionate full-stack engineer.
 
 I've a passion for learning.<br>
 I'm willing to use new tools and techniques.<br>
